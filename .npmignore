@@ -1,0 +1,10 @@
+node_modules
+.gitignore
+.npmignore
+.travis.yml
+*.log
+src
+test
+webpack.config.js
+webpack.config.coffee
+gh-pages

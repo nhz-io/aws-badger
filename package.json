@@ -1,0 +1,38 @@
+{
+  "name": "aws-badger",
+  "version": "0.0.0",
+  "description": "AWS Badge Lambda and API gateway",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhz-io/aws-badger.git"
+  },
+  "keywords": [
+    "nhz.io",
+    "nhz-io",
+    "aws",
+    "badge",
+    "coffee",
+    "coffeescript",
+    "webpack"
+  ],
+  "author": "Ishi Ruy <dev@nhz.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhz-io/aws-badger/issues"
+  },
+  "homepage": "https://github.com/nhz-io/aws-badger#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coffeelint": "^1.14.2",
+    "coffeelint-loader": "^0.1.1",
+    "mocha": "^2.4.5",
+    "mocha-loader": "^0.7.1",
+    "sinon": "^1.17.3",
+    "sinon-chai": "^2.8.0",
+    "webpack": "^1.12.12"
+  }
+}
