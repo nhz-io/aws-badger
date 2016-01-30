@@ -1,2 +1,2 @@
 require('coffee-script/register');
-require('./webpack.config.coffee');
+require('./webpack.config.coffee.md');
