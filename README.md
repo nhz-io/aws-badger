@@ -1,4 +1,4 @@
-# AWS Badge generator Lambda
+# Badge generator AWS Lambda
 
 [![Build Status][travis-image]][travis-url]
 [![Coverage][coverage-image]][coverage-url]
